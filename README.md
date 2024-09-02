@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate first year CSE student with a k
 
 - **🔭 Current Projects:** Right now I am not having any big projects, as I am trying to develop my skills for the better future
 - **🌱 Learning:** I’m currently learning Java and C, and trying to improve my python skills. I am planning to learn web-development 
-- **👨‍💻 Tech Interests:** AI, Machine Learning, Game Development, Web Development, and anything that pushes my boundaries!
+- **👨‍💻 Tech Interests:** AI, Machine Learning, Game Development, Web Development, and anything else that pushes my boundaries!
 - **📍 Location:** Currently living in Amaravati, Andhra Pradesh, India for Education but I am a resident of Kolkata,West Bengal,India
 
 ## Hobbies & Interests
