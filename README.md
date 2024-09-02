@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m a passionate first year CSE student with a k
 
 If you want to give suggestions, or like to collaborate please contact me at:
 
-- **Email:** arkasengupta.06@gmail.com
+- **Email:** arka.sengupta.06@gmail.com
 - **LinkedIn:** [Arka Sengupta](www.linkedin.com/in/arka-sengupta-02211b320)
 
 Thanks for stopping by, and happy coding! 😄
