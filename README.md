@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>🔭 Current Projects: Right now I am not having any big projects, as I am trying to develop my skills for the better future<br>🌱 Learning: I’m currently learning Java, and trying to improve my python skills. I am learning Web Development, I am familar with HTML,CSS and JS and advancing on it<br>👨‍💻 Tech Interests: AI, Machine Learning, Game Development, Web Development<br>📍 Location: Currently living in Amaravati, Andhra Pradesh, India for my Education but I reside in Kolkata,West Bengal,India<br>
+🔭 Current Projects: Right now I am not having any big projects, as I am trying to develop my skills for the better future<br>🌱 Learning: I’m currently learning Java, and trying to improve my python skills. I am learning Web Development, I am familar with HTML,CSS and JS and advancing on it<br>👨‍💻 Tech Interests: AI, Machine Learning, Game Development, Web Development<br>📍 Location: Currently living in Amaravati, Andhra Pradesh, India for my Education but I reside in Kolkata,West Bengal,India<br>
 
 
 ## 🌐 Socials:
