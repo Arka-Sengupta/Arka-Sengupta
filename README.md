@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an AI based collaborative platform details would be shared later.<br>I perform web development, can maintain both static and dynamic pages.<br>I am currently residing in Amaravati, India for my studies but my residence is Kolkata, India.
+I perform web development, can maintain both static and dynamic pages, learning machine learning.<br>I am currently residing in Amaravati, India for my studies but my residence is Kolkata, India.
 
 
 ## 🌐 Socials:
